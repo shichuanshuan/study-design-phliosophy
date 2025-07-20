@@ -1,0 +1,9 @@
+{
+  "ID": 1001,
+  "Customer": "Alice",
+  "Items": [
+    "Apple",
+    "Banana",
+    "Orange"
+  ]
+}
